@@ -1,0 +1,7 @@
+C:\Users\vivek\source\repos\BasicDb\BasicDb\bin\Debug\BasicDb.exe.config
+C:\Users\vivek\source\repos\BasicDb\BasicDb\bin\Debug\BasicDb.exe
+C:\Users\vivek\source\repos\BasicDb\BasicDb\bin\Debug\BasicDb.pdb
+C:\Users\vivek\source\repos\BasicDb\BasicDb\obj\Debug\BasicDb.csprojAssemblyReference.cache
+C:\Users\vivek\source\repos\BasicDb\BasicDb\obj\Debug\BasicDb.csproj.CoreCompileInputs.cache
+C:\Users\vivek\source\repos\BasicDb\BasicDb\obj\Debug\BasicDb.exe
+C:\Users\vivek\source\repos\BasicDb\BasicDb\obj\Debug\BasicDb.pdb
